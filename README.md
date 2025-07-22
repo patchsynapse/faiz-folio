@@ -58,7 +58,7 @@ You can view it here:
 ## 📬 Contact Me
 
 - Email: jackindogamer123@gmail.com   
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@patchsynapse](https://github.com/patchsynapse)
 
 ---
 
