@@ -42,7 +42,7 @@ This portfolio is where I share my story, my goals, and my journey in tech.
 ## 🌍 Live Website
 
 You can view it here:  
-👉 [https://yourusername.github.io/faiz-portfolio](https://yourusername.github.io/faiz-portfolio)  
+👉 (https://patchsynapse.github.io/faiz-portfolio)  
 
 ---
 
