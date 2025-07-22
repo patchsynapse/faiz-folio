@@ -1,4 +1,4 @@
-# 🌐 Faiz Hamdani's Portfolio Website
+# 🌐 My portfolio!
 
 Welcome to my personal portfolio website!  
 This site shows who I am, what I’ve built, and what I’m learning as a student developer.
